@@ -1,3 +1,3 @@
 # MachineLearningAlgorithmsPractice
-A collection of Machine Learning Algorithms (Supervised) implemented using ScikitLearn, Matplotlib, NumPy and MLXtend 
+A collection of Machine Learning Algorithms implemented using ScikitLearn, Matplotlib, NumPy, Seaborn and MLXtend 
 for practice
